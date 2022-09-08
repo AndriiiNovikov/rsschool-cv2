@@ -1,4 +1,4 @@
-[rsschool-cv](https://github.com/AndriiiNovikov/rsschool-cv)
+[rsschool-cv](https://github.com/AndriiiNovikov/rsschool-cv/cv)
 
 1. Novikov Andrii CV
 
