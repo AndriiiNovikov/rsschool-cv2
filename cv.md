@@ -6,7 +6,7 @@
 * +380632031080
 * novikov.andrey@ukr.net
 
-3. Hi I think everyone should study something for all life. I`m studyind there for making my own project.
+3. Hi I think everyone should study something for all life. I`m  studyind there for making my own project.
 
 4. Skills:
 * JS
